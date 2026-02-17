@@ -1,0 +1,5 @@
+com\duoc\transporte\Application.class
+com\duoc\transporte\mq\HorariosListener$HorarioMsg.class
+com\duoc\transporte\mq\HorariosListener.class
+com\duoc\transporte\api\ArchivosController.class
+com\duoc\transporte\RabbitConfig.class

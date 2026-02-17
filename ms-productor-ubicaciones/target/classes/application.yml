@@ -1,0 +1,13 @@
+﻿server:
+  port: 8085
+
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+app:
+  queues:
+    cola1: cola1
+    cola2: cola2

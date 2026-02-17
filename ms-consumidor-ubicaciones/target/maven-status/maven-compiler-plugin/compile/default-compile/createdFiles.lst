@@ -1,0 +1,11 @@
+com\duoc\transporte\db\UbicacionEntity.class
+com\duoc\transporte\services\UbicacionesStore$Ubicacion.class
+com\duoc\transporte\config\RabbitConfig.class
+com\duoc\transporte\db\UbicacionRepository.class
+com\duoc\transporte\mq\UbicacionesListener.class
+com\duoc\transporte\Application.class
+com\duoc\transporte\api\UbicacionesQueryController.class
+com\duoc\transporte\services\UbicacionesStore.class
+com\duoc\transporte\core\UbicacionMemoryRepo.class
+com\duoc\transporte\mq\UbicacionesListener$UbicacionMsg.class
+com\duoc\transporte\core\UbicacionHist.class

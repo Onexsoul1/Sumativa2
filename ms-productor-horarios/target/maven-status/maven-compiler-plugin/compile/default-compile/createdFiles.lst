@@ -1,0 +1,4 @@
+com\duoc\transporte\Application.class
+com\duoc\transporte\config\RabbitJsonConfig.class
+com\duoc\transporte\api\HorariosController.class
+com\duoc\transporte\api\HorariosController$HorarioMsg.class
